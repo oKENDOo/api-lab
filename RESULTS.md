@@ -20,6 +20,9 @@
   
 ## Part A 
 - Step A4, status codes when the other user reads, changes and deletes: 
+  - GET: 404
+  - PUT: 400
+  - DELETE: 400
 
 ## Part B 
 1. 
